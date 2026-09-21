@@ -1,0 +1,15 @@
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.json        
+
+__pycache__/
+*.pyc
+*.egg-info/
+.scrapy/
+
+counts_output.txt
+prius.html
+car_details.json
+structure.json

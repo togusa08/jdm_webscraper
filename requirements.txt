@@ -1,0 +1,11 @@
+scrapy
+requests
+lxml
+beautifulsoup4
+opencv-python
+Pillow
+imagehash
+albumentations
+transformers
+torch
+ultralytics
